@@ -29,5 +29,5 @@
 ---
 
 ### 📫 Connect with Me:
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/samia-asmar)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/samia-asmar-52014431a/)
 - 📧 Email: asmarsamia2003@gmail.com
