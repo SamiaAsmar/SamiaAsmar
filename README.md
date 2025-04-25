@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack & Tools:
 - 🖥️ HTML, CSS, JavaScript (Frontend)
 - 💻 Arduino, Raspberry Pi, ESP32 (Embedded Systems) (Basic)
-- ⚙️ Python, Java, C++ (Backend & Programming) 
+- ⚙️ Java, C++ (Backend & Programming) 
 - 🌐 Spring Boot, REST APIs (Backend)
 
 ---
